@@ -46,7 +46,7 @@ options:
 # Substitutions for customizable values
 substitutions:
   _DOCKER_IMAGE: '03sarath/gemma-ai:3.0'
-  _SERVICE_NAME: 'gemma-ai'
+  _SERVICE_NAME: 'gemma-ai-test'
   _REGION: 'us-central1'
   _PORT: '8000'
   _MEMORY: '8Gi'
